@@ -23,6 +23,7 @@ class PersonPlus extends Person{
     }
 }
 
+// 생성자에 함수가 들어 있을때 따로 빼서 
 // Person.prototype.sum = function(){
 //     return 'prototype :::: ' + (this.first+this.second+this.third);
 // }
